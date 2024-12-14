@@ -9,7 +9,7 @@ A Flutter-based mobile application that fetches and caches jokes from an externa
 
 ## **Features**
 
-- Fetches 5 random jokes from the [Official Joke API](https://official-joke-api.appspot.com/random_ten).
+- Fetches random jokes from the [Official Joke API](https://official-joke-api.appspot.com/random_ten).
 - Caches jokes locally using the `shared_preferences` package for offline access.
 - Refresh jokes with a single tap for new content.
 - User-friendly interface with dynamic loading indicators and error handling.
