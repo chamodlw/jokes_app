@@ -39,7 +39,7 @@ class _JokesScreenState extends State<JokesScreen> {
         leading: Icon(Icons.ac_unit),
         centerTitle: true,
         title: Text(
-          'Jokes',
+          'Jokes For You',
           style: TextStyle(fontWeight: FontWeight.bold),
         ),
         backgroundColor: Color(0xFFFFD369),
