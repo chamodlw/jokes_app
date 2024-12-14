@@ -28,6 +28,7 @@ class _JokesScreenState extends State<JokesScreen> {
 
   void refreshJokes() {
     setState(() {
+      
       jokes = fetchAndCacheJokes();
     });
   }
